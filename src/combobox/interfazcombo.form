@@ -92,7 +92,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Ingresar su asignatura favorita"/>
+            <Property name="text" type="java.lang.String" value="Ingresar Asignatura preferida"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="boton">

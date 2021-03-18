@@ -26,7 +26,7 @@ public class interfazcombo extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(204, 255, 255));
 
-        jLabel1.setText("Ingresar su asignatura favorita");
+        jLabel1.setText("Ingresar Asignatura preferida");
 
         boton.setText("Agregar Materia");
         boton.addActionListener(new java.awt.event.ActionListener() {
@@ -90,7 +90,7 @@ public class interfazcombo extends javax.swing.JFrame {
         
         this.combo.addItem(asignatura);
         
-        JOptionPane.showMessageDialog(this, "Asignatura ingresada");
+        JOptionPane.showMessageDialog(this, "Asignatura ingresada con exito");
         
         
         
